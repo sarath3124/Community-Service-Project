@@ -1,0 +1,91 @@
+S.no,Name,Age,Gender,1) Do you use daily internet?,2) What do you use Internet for?,3) Has Internet changed the way of your life?,4) What is your opinion on Internet as a knowledge hub?,5) Does Internet distract you while you are into serious study/ work?,6) What is your opinion on children using internet?,7) How many hours do you spend on internet daily?,8) Did you learn or master any new art with the help of internet? ,9) Does Senior citizens in your house use internet daily?,10) Do you think children are wasting their time due to internet?,11) Internet affects the IQ level and education of children?,12) Do you turn on your internet soon after waking up daily?,13) Did you face or experience any health issues owing to Internet usage?,14) Does internet usage make you stressful?,15) Does Internet help you in your academics? 
+1,Priya,27,Female,Yes,"Shop from home, watch videos, listen to music",YES,"Ability to form social groups, access to thoughts",Yes,Bad for mental and physical health,9 -10 hours,Yes,No,Yes,FALSE,Yes,Yes,Yes,Yes
+2,Lasya,18,Female,Yes,"Communicate with people, quickly find information",YES,Provides accessiblity on various devices,Yes,Help them in enhancing broder learning also effects mental health,6-8 hours,Yes,No,Yes,FALSE,Yes,Yes,No,Yes
+3,Abhishek,22,MALE,Yes,"Work propose, entertainment",YES,"Access to information, makes daily work easy",No,Distract them from studies,4-5 hours,No,Yes,Yes,TRUE,No,No,Yes,Yes
+4,Saketh sri ram,28,MALE,Yes,"Study, work",YES,Yes,No,Good,8 hours,Yes,Yes,Yes,TRUE,No,Yes,No,No
+5,Kundarika,25,Female,Yes,"Study, work",YES,Yes,No,Not good,7 hours,Yes,Yes,Yes,TRUE,No,Yes,No,No
+6,Jeevika,20,Female,Yes,"Study, work",YES,Yes,Yes,Not good,8 hours,Yes,Yes,Yes,TRUE,No,Yes,No,No
+7,Bhavani ,30,Female,Yes,"Study, work",YES,Yes,Yes,Not good,7 hours,Yes,Yes,Yes,TRUE,No,Yes,No,No
+8,Geetha,27,Female,Yes,News,YES,Yes,Yes,Too bad,5 hours,Yes,Yes,Yes,TRUE,No,Yes,No,No
+9,Kameswara rao,38,MALE,Yes,"Study, work",YES,Yes,Yes,Bad to use,6 hours,Yes,No,Yes,FALSE,Yes,No,No,Yes
+10,Sita,20,Female,Yes,Study work,NO,Yes,No,Good,6 hours,Yes,No,Yes,TRUE,Yes,No,Yes,Yes
+11,A Geetha,21,Female,Yes,"Study, work",YES,No,Yes,Bad,7 hours,No,Yes,Yes,TRUE,Yes,Yes,Yes,Yes
+12,Valli,20,Female,Yes,"Study, work",YES,Yes,No,Bad,3 hrs,Yes,Yes,Yes,TRUE,Yes,Yes,Yes,No
+13,Mahesh bob,26,MALE,Yes,Study work,YES,No,Yes,Good,3 hours,Yes,Yes,Yes,TRUE,No,No,No,Yes
+14,Azad ,19,MALE,Yes,"Study, work",YES,Good,No,Bad,5 hours,Yes,No,Yes,FALSE,Yes,Yes,Yes,Yes
+15,Gnana,28,MALE,Yes,"Study, work",YES,Yes,Yes,Good,4 hours,Yes,Yes,Yes,TRUE,Yes,No,No,Yes
+16,Vidhya sagar,23,MALE,Yes,"Study, work",YES,Its helpful tips,Yes,Effect on their mental health,6hrs,Yes,Yes,Yes,TRUE,Yes,No,No,Yes
+17,Pawan kalyan,25,MALE,Yes,"Study, work",YES,Yes,No,Good,6hours,Yes,No,Yes,FALSE,Yes,Yes,Yes,No
+18,Madhu ,21,Female,Yes,Studies,YES,Yes,Yes,Good,7 hours,Yes,Yes,No,TRUE,Yes,Yes,Yes,Yes
+19,Sri nithin,21,MALE,Yes,Entertainment,NO,Good,Yes,Bad,6 hours,Yes,No,Yes,TRUE,Yes,No,No,Yes
+20,Sai,20,MALE,Yes,Time pass,YES,Yes,Yes,Good,5 hours,No,Yes,Yes,FALSE,Yes,No,Yes,No
+21,Mohan lukshith,22,MALE,Yes,Entertainment,YES,Yes,Yes,Bad for their health,3 hours,Yes,Yes,Yes,TRUE,Yes,No,No,Yes
+22,Parnika,20,Female,Yes,Studies,YES,Its very helpful,No,Bad for their eyes,5 hrs,Yes,Yes,Yes,TRUE,Yes,Yes,Yes,Yes
+23,Imtiyaz ali,21,MALE,Yes,Entertainment,YES,Its helpful,Yes,Bad for their health,8 hours,Yes,Yes,Yes,TRUE,Yes,No,Yes,Yes
+24,Abhi,24,MALE,Yes,Studies,YES,Yes helpful,No,Good,5 hours,Yes,Yes,Yes,TRUE,No,No,No,Yes
+25,Swathi,28,Female,Yes,"Study, work",YES,Yes,Yes,Not good,4 hours,Yes,Yes,Yes,TRUE,No,No,No,No
+26,G swetha,31,Female,Yes,Get more information,YES,Yes,Yes,Good,2 to 3 hours,Yes,Yes,Yes,TRUE,No,No,No,Yes
+27,N anil kumar,18,MALE,Yes,Knowledge purpose,YES,Yes,Yes,Children will addict to internet,4 to 5 hours,Yes,No,Yes,TRUE,Yes,No,Yes,Yes
+28,Sravani,25,Female,Yes,Entertainment,YES,Helpful,No,Mental illness,5 hours,Yes,No,Yes,TRUE,Yes,No,No,Yes
+29,G madhuri,18,Female,Yes,For timepass,YES,Good,Yes,Nothing,6 hours,No,Yes,Yes,TRUE,Yes,Yes,Yes,Yes
+30,K sai suraj,20,MALE,Yes,Entertainment,YES,Its very useful,Yes,Bad for them,3 - 4 hours,Yes,No,Yes,TRUE,Yes,No,No,Yes
+31,M Apparao,47,MALE,Yes,"social media, entertainment",YES,yes it is,No,wsting time but also gaining knowlwdge,10 - 12 hours,No,No,Yes,TRUE,No,No,No,No
+32,B Avinash Kumar,19,MALE,Yes,"eduction, entertainmnt, social media",YES,yes it is,yes,it helps them in various aspects,8 - 10 hours,Yes,No,Yes,TRUE,Yes,No,No,Yes
+33,B Akash,19,MALE,Yes,"studies, entertainment",YES,yes very helpful,Yes,good for them,8 - 10 hours,Yes,No,Yes,TRUE,Yes,No,No,Yes
+34,Sk Karishma,16,Female,Yes,studies and entertainment,YES,its helpful,Yes,helps in homework,12 - 14 hours,Yes,No,Yes,TRUE,No,Yes,No,Yes
+35,K Sasi Kala,42,Female,Yes,"social media, entertainment",YES,yes,No,it is very helpful for them,10 - 12 hours,Yes,No,Yes,TRUE,Yes,No,No,No
+36,M Sai Kumar,24,MALE,Yes,"office work, entertainment",YES,ofcourse it is,sometimes yes,very good for them in studies,10 - 12 hours,Yes,Yes,Yes,both true and false,no,No,No,Yes
+37,R Dinesh Kumar,21,MALE,Yes,"office work, entertainment",YES,ofcourse it is,sometimes yes,very good for them in studies,10 - 12 hours,Yes,Yes,Yes,both true and false,No,No,No,Yes
+38,B Varasimha,19,MALE,Yes,"education, entertainment, social media",YES,odcourse it is,yes sometimes,its very useful for them,8 - 10 hours,yes,No,Yes,TRUE,Yes,No,No,Yes
+39,KTK Sai Prabash,20,MALE,Yes,"entertainment, education, social media",YES,yes it is,No,tyes it is very useful for them,8 - 10 hours,Yes,No,Yes,TRUE,Yes,No,No,yes
+40,B jyotsna,17,Female,Yes,"education, entertainment, social media",YES,yes ofcourse,sometimes only,it is very useful,10 - 12 hours,No,No,Yes,TRUE,Yes,No,No,Yes
+41,B Ramana Raju,19,MALE,Yes,"studies, entertainment",YES,yes,yes,helps in their homework,12 - 14 hours,Yes,No,Yes,TRUE,Yes,Yes,No,Yes
+42,R Rambabu,51,MALE,Yes,"office work, entertainment",YES,yes very helpful,yes,they gain knowledge,5 - 6 hours,Yes,No,Yes,TRUE,Yes,No,No,No
+43,K Prakash Rao,52,MALE,Yes,"social media, entertainment",YES,yes it is,No,its waste of time,10 - 12 hours,Yes,No,Yes,TRUE,Yes,No,No,No
+44,B Jaya Vardhan,19,MALE,Yes,studies and entertainment,YES,yes it is,sometimes yes,very good for them in studies,8 - 10 hours,Yes,No,Yes,TRUE,No,No,No,Yes
+45,K Mahesh Babu,18,MALE,Yes,entertainment,YES,yes,No,very good for them.,12 -14 hours,No,Yes,Yes,TRUE,Yes,Yes,No,Yes
+46,Sk Shabana,19,Female,Yes,studies and knowledge,YES,yes,yes,helps in homework,12 - 14 hours,Yes,No,Yes,TRUE,No,Yes,No,Yes
+47,S Sri Nithin,19,MALE,Yes,studies and entertainment,YES,ofcourse it is,sometimes yes,very good for them in education,10 -12 hours,Yes,Yes,Yes,both true and false,No,No,No,Yes
+48,K Rohit,19,MALE,Yes,entertainment and studies,YES,yes,yes,helps in acquiring knowledge,6 - 8 hours,Yes,No,Yes,TRUE,Yes,No,No,Yes
+49,S Vamsi Prasad,24,MALE,Yes,"entertainment, social media, business",YES,yes,No,they are very useful,12 - 14 hours,No,No,Yes,TRUE,Yes,No,No,No
+50,K Siva Kesava,19,MALE,Yes,studies and entertainment,YES,yes it is,yes,it helps in studeis for them,6 - 8 hours,Yes,No,Yes,TRUE,Yes,No,No,Yes
+51,G Murali,19,MALE,Yes,education and entertainment,YES,ofcourse it is,yes sometimes,very useful for them,8 - 10 hours,Yes,No,Yes,yes,Yes,No,No,yes very much
+52,J Aditya Srinivas,19,MALE,Yes,studies and entertainment,YES,yes it is,sometimes yes,very good for them,8 - 10 hours,Yes,No,Yes,yes,No,Yes,No,yes
+53,R Sridevi,38,Female,Yes,"office work, entertainment",YES,yes very useful,yes,they gain knowledge,5 - 6 hours,Yes,No,Yes,both true and false,Yes,No,No,No
+54,Md Ahmed Khan,19,MALE,Yes,entertainment and studies,YES,yes,yes,yes helps in gaining knowledge,6 - 8 hours,Yes,No,Yes,TRUE,Yes,No,No,yes
+55,G Susanth Kumar,19,MALE,Yes,studies and entertainment,YES,yes it is,No,very good for them,10 - 12 hours,Yes,No,Yes,yes,No,No,No,yes
+56,R Hemanth Kalyan,18,MALE,Yes,education and entertainment,YES,yes it is,No,very good for children,10 - 12 hours,Yes,No,Yes,yes,No,No,No,yes
+57,Dheeraj Nandan,19,MALE,Yes,entertainment and education,YES,yes it is,No,very good for children,10 - 11 hours,Yes,No,Yes,yes,No,No,No,yes
+58,Chaitanya Kumar,20,MALE,Yes,education and entertainment,YES,odcourse it is,yes sometimes,its very useful for them in various ways,8 - 10 hours,yes,No,Yes,yes,Yes,No,No,yes
+59,Saketh sri ram,19,MALE,Yes,studies and entertainment,YES,yes,no,very useful for them,8 - 10 hours,Yes,No,Yes,yes,Yes,No,No,yes
+60,,,,,,,,,,,,,,,,,,
+61,J.Jyothi,24,Female,Yes,"Studies,Entertainment",Yes,Yes,No,Good ,4-6hrs,Yes,No,Yes,TRUE,No,No,No,Yes
+62,S.Saranya,20,Female,Yes,"Studies,Entertainment",Yes,Yes it is,Yes,Good ,6hrs,No,No,Yes,FALSE,No,No,No,Yes
+63,J.Shyam,20,Male,Yes,"Studies,Entertainment",Yes,Yes,Yes,Not Good,8hrs,Yes,No,Yes,TRUE,Yes,No,No,Yes
+64,G.Naidu,26,Male,Yes,"Work,Business,Entertainment",Yes,Of course it is,No,Good ,10hrs,Yes,No,Yes,TRUE,Yes,No,No,Yes
+65,B.Swaroop,21,Male,Yes,"Studies,Entertainment",Yes,Yes,Yes,Good,8hrs,No,No,No,FALSE,No,No,No,Yes
+66,G.Pavani,23,Female,Yes,"Social media,Studies,Entertainment",Yes,Yes,Yes,Bad for them,5hrs,No,No,Yes,TRUE,No,No,No,Yes
+67,J.Harini,22,Female,Yes,"Studies,Social media,Entertainment",Yes,Yes ,Yes, With Proper guidance it is good,6hrs,No,No,No,FALSE,No,Yes,No,Yes
+68,K.Phaindra,19,Male,Yes,"Entertainment,Social Media",Yes,Yes,No,Children can be distracted fro their studies,10hrs,No,Yes,Yes,TRUE,No,No,No,Yes
+69,M.Anil,21,Male,Yes,"Research,Entertainment,Studies",Yes,Of course it is,No,Increase their knowledge ,8hrs,No,No,Yes,TRUE,No,No,No,Yes
+70,B.Geetanjali,24,Female,Yes,"Entertainment,Social Media,Online Shopping",Yes,Its useful ,Yes, With Proper guidance it is good,8hrs,No,No,Yes,FALSE,No,Yes,No,Yes
+71,K.Swathi,23,Female,Yes,"Entertainment,Social Media,Online Shopping",Yes,Yes,Yes,Good ,8hrs,No,Yes,Yes,TRUE,No,No,No,Yes
+72,P.Kishore,22,Male,Yes,"Entertainment,Social Media",Yes,"Yes,It's great source of Education",Yes,Not Good,6hrs,No,No,Yes,TRUE,Yes,No,No,Yes
+73,M.Keerthi,25,Female,Yes,"Entertainment,Social Media,Online Shopping",Yes,Yes it is,No,Good ,8hrs,Yes,No,No,FALSE,No,No,No,Yes
+74,P.Dileep Kumar,24,Male,Yes,"Studies,Entertainment",No,Yes ,No,"Not Good,spoil their studies",5hrs,No,No,Yes,FALSE,No,No,No,Yes
+75,K.Pavani,24,Female,Yes,"Social media,Studies,Entertainment",Yes,"Yes,we can develop our skills",Yes,It can be benefical if used responsibly under parental guidance,8hrs,No,No,Yes,TRUE,No,Yes,Yes,Yes
+76,P.Satwik,22,Male,Yes,"Social media,Entertainment,Studies",Yes,"Yes,It's great source of Education",Yes,"No,it's not good",8hrs,Yes,No,Yes,TRUE,No,No,No,Yes
+77,K.Harsha,25,Male,Yes,"Social media,Entertainment,Work",Yes,Yes,Yes,"Good,Increases their knowledge ",9hrs,No,Yes,Yes,TRUE,No,No,No,Yes
+78,L.Bhavana,20,Female,Yes,"Entertainment,Social Media,Shopping",Yes,Yes it is,No,Good,5hrs,Yes,No,No,FALSE,No,No,No,Yes
+79,G.Pawan,24,Male,Yes,"Communication,Studies,Social Media",Yes,"Yes ,we gain knowledge and information",Yes, With Proper guidance it is good,6hrs,Yes,No,No,FALSE,No,No,No,Yes
+80,N.V.R. Jivan Kumar,25,Male,Yes,"Business,Social Media ",Yes,Yes it is,Yes,good,10hrs,No,No,Yes,TRUE,No,No,No,Yes
+81,L.Pavan Kumar,21,Male,Yes,Entertainment,Yes,"Yes , it great source to know more information",No,It can be benefical if used responsibly under parental guidance,8hrs,No,No,Yes,FALSE,No,No,No,Yes
+82,K.Hyma,24,Female,Yes,"Studies,Social media,Shopping",Yes,"Yes ,Internet provides a good source of knowledge ",No,Good,5hrs,Yes,No,Yes,FALSE,No,No,No,Yes
+83,K.Vishnu,22,Male,Yes,"Social media,Studies,Entertainment",Yes,Of course it is,Yes sometimes,good,9hrs,No,No,Yes,TRUE,No,No,No,Yes
+84,M.Rohit,20,Male,Yes,"Social media,Studies,Entertainment",Yes,Of course it is,No, With Proper guidance it is good,8hrs,Yes,No,Yes,FALSE,No,No,No,Yes
+85,V.Krishna,23,Male,Yes,"Social media,Studies,Entertainment",Yes,"Yes ,It is useful for gain knowledge ",No,Not good,6hrs,Yes,Yes,Yes,TRUE,No,No,No,Yes
+86,P.Kavya,26,Female,Yes,"Communication,Social Media",Yes,"Yes ,we can access educational websites and gain knowledge",Yes,Good,8hrs,Yes,No,Yes,FALSE,No,No,No,Yes
+87,N.Praveen Kumar,22,Male,Yes,"Social media,Studies,Entertainment",Yes,Yes it is,No,Good,6hrs,Yes,Yes,Yes,TRUE,No,No,No,Yes
+88,L.Ravi,25,Male,Yes,"Entertainment,Social Media",Yes,Yes it is,Yes,Not good,10hrs,No,No,Yes,TRUE,Yes,Yes,No,Yes
+89,A.Akash,20,Male,Yes,"Entertainment,Social Media",Yes,Yes it is,No,Not Good,6hrs,Yes,No,Yes,TRUE,No,No,Yes,Yes
+90,S.Sampath,22,Male,Yes,"Studies,Entertainment",Yes,Yes,No,Good,9hrs,No,Yes,Yes,TRUE,No,No,No,Yes
